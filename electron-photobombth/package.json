@@ -1,0 +1,12 @@
+{
+  "name": "electron-photobombth",
+  "version": "1.0.0",
+  "description": "Photo app",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Tom Yu <yukangle@outlook.com> (http://www.kangleyu.me)",
+  "license": "ISC"
+}
